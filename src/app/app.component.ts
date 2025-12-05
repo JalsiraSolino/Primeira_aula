@@ -9,4 +9,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'segunda_pratica';
+  nome = 'jacinta Silvino Solino'
+  idade = 50
+  sexo = 'F'
 }
