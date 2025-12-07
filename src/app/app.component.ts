@@ -10,7 +10,7 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent {
   nome = 'Jacinta Silvino Solino'
-  endereco = 'Vil de viana/ Luand Sul'
+  endereco = 'Vila de viana/ Luanda Sul'
   email = 'jlsirsolino1@gmail.com'
   telefone = '928711535'
   
